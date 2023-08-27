@@ -1,1 +1,2 @@
 # Exploratoryredwines
+Exploratory Data Analysis (EDA) is a crucial step in any data analysis process that involves understanding, summarizing, and visualizing the main characteristics of a dataset. In this project, we will perform an EDA on a dataset containing information about various attributes of red wines. The goal of this analysis is to gain insights into the dataset, identify patterns, relationships, and potential outliers, and prepare the data for further analysis or modeling.
